@@ -24,13 +24,6 @@ Node-RED interface for real-time and historical data visualization
 ~Automated Feeding
 Motor driver + DC motor controlled by ESP32 to dispense food/water
 
-🧰 Tech Stack
-Component	Technology Used
-Microcontroller	ESP32
-Sensors	Load Cell + HX711, Ultrasonic, DHT11
-Cloud Database	Firebase Realtime Database
-Visualization	Node-RED Dashboard
-Programming	Arduino (C++), Python (ML/EDA)
 
 🔧 How It Works
 1. Sensors collect real-time data on:
